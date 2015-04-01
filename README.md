@@ -1,11 +1,26 @@
-Die Dokumente wurden freundlicherweise vom CCC Mannheim zur Verfügung gestellt und von gonium ins Repository geladen. Die Dokumente basieren auf LaTeX. Zum Übersetzen empfehle ich eine TeXLive-Distribution, da die meisten anderen Distributionen (insbesondere die Auswahl der Pakete in einzelnen Linux-Distributionen) kaputt sind. In jedem Unterverzeichnis kann
+# Design-Vorlagen für Chaos inKL.
 
-$ make
+## Logos
 
-aufgerufen werden, um die Dokumente zu bauen. Ein
+Die im Logo verwendete Schriftart ist beigefügt. Sie darf für nicht-kommerziellen Gebrauch frei verwendet werden.
 
-$ make clean
 
-räumt Zwischenergebnisse weg. Und ja, es ist Absicht, dass ein PDF des jeweiligen Dokumentes im Repository ist -- es soll ja Leute geben, die mit git/make/pdflatex ein Problem haben, die aber trotzdem mitdiskutieren wollen.
+## Plakate
+*Bitte vor dem Bearbeiten der Plakate durchlesen.*
 
-Alle Inhalte dieses Repository stehen unter der Creative Commons Namensnennung 3.0 Deutschland Lizenz.
+Der Text für die **Abreißzettelchen** muss nur im ganz linken Zettel geändert werden. die übrigen Texte sind **Clone** und **übernehmen die Änderung automatisch**.
+
+Die Plakate wurden mit Inkscape bearbeitet. 
+
+
+### Farben
+Jede Veranstaltung sollte eine eigene Farbe bekommen.
+Derzeit vergeben sind:
+
++ | Blau	| Arduino-Workshop (Arduino-Board)	|
++ | Rosa	| Cryptoparty (Cryptoparty-Logo)	|
+
+Vorschläge:
+
++ | Grün/Braun	| Lötworkshop (Platinen/Lochraster)  |
++ | Orange	| 3D-Drucker (Filament)	             |

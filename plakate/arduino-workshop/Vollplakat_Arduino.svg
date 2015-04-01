@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="Vollplakat_Arduino.svg">
+  <title
+     id="title3006">Plakat-Termplate</title>
+  <defs
+     id="defs4">
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask4220">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:0.20083228;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         id="rect4222"
+         width="373.60922"
+         height="297.25113"
+         x="-545.80743"
+         y="192.88295" />
+    </mask>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4253">
+      <path
+         style="fill:none;stroke:#00ff00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 224.0513,230.84074 -124.925572,70.6101 4.073662,69.25223 188.74625,122.2098 71.96799,36.66294 89.62052,-9.50521 L 582.53339,442.67106 719.67994,325.8928 721.03783,228.12496 461.68147,66.536451 324.53492,143.93599 221.33553,205.04089 z"
+         id="path4255"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7392892"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1580"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="mm" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Plakat-Termplate</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Chaos inKL. e.V.</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>DE</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Veranstaltungen</rdf:li>
+            <rdf:li>Plakat</rdf:li>
+            <rdf:li>Ankündigung</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>schmo-fu</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Chaos inKL. e.V.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Material" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.5390623e-6)">
+    <flowRoot
+       transform="matrix(1.2692033,0,0,1.2692033,-178.97228,426.48341)"
+       style="font-size:25.4975853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       id="use3048"
+       xml:space="preserve"
+       name="Abreisser"
+       inkscape:label="Abreisserle"><flowRegion
+         id="flowRegion3074"><rect
+           style="font-size:25.4975853px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:Sans;-inkscape-font-specification:Sans"
+           y="359.10297"
+           x="331.73148"
+           height="145.78537"
+           width="426.59253"
+           id="rect3076" /></flowRegion><flowPara
+         id="flowPara8956">am 26.07.2014</flowPara><flowPara
+         id="flowPara8958">weitere Informationen:</flowPara><flowPara
+         id="flowPara8960">https://arduino.chaos-inkl.de</flowPara><flowPara
+         id="flowPara8962" /></flowRoot>    <image
+       sodipodi:absref="/Users/thomas/Documents/CCC/_Chaos inKL./GitHub/design/plakate/arduino-workshop/../logo-schwarz.tif"
+       xlink:href="../logo-schwarz.tif"
+       inkscape:tile-y0="757.21155"
+       inkscape:tile-x0="12.220978"
+       inkscape:tile-h="60.236221"
+       inkscape:tile-w="60.236221"
+       inkscape:tile-cy="787.32966"
+       inkscape:tile-cx="42.339088"
+       width="199.99744"
+       height="149.94936"
+       id="image3168"
+       x="19.474524"
+       y="885.82776" />
+    <rect
+       style="fill:#00b4da;fill-opacity:1;stroke:none"
+       id="rect8964"
+       width="744.09448"
+       height="843.54938"
+       x="0"
+       y="-0.001188449" />
+    <path
+       style="fill:#d8f7ff;fill-opacity:1;stroke:#000000;stroke-width:1.17674899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 41.932169,568.11758 -21.64241,16.85761 12.173856,192.92591 81.159035,13.11147 247.53506,-19.45969 47.34278,51.30183 301.64108,-32.67654 17.58447,-46.82666 -33.81627,-220.18753 -212.36615,31.84214 -77.10108,-35.58829 -120.38591,20.60376 z"
+       id="path8968"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4257"
+       d="m 465.75513,73.325884 -232.19862,128.999236 0,36.66294 -109.98882,61.1049 0,59.74701 59.74701,54.31547 146.65177,92.33629 47.52603,28.51562 58.38913,-8.14732 152.08331,-89.62052 145.29387,-109.98882 0,-62.46279 -14.93676,-39.37871 -169.73583,-100.48361 -28.51562,1.35788 -25.79985,-17.65253 0,-23.084066 z"
+       style="fill:#ffffff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccccccccccccc" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4170"
+       style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+       transform="matrix(0.99457977,-0.10397632,0.10397632,0.99457977,-94.940958,24.194581)"><flowRegion
+         id="flowRegion4172"><rect
+           id="rect4174"
+           width="650.24744"
+           height="281.12695"
+           x="74.683769"
+           y="566.23877"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier New;-inkscape-font-specification:Courier New" /></flowRegion><flowPara
+         id="flowPara4178"
+         style="font-size:37px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier New;-inkscape-font-specification:Courier New">Einsteiger-Workshop</flowPara><flowPara
+         id="flowPara4182"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier New;-inkscape-font-specification:Courier New">Dieser Workshop vermittelt die Grundkenntnisse, um einfache elektronische Schaltungen mit dem Microcontrollerboard Arduino umzusetzen.</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="flowPara10164">Die Teilnahme beinhaltet <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Courier New Bold"
+   id="flowSpan10166">ein Arduino-Kit</flowSpan> und ein warmes Mittagessen.</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="flowPara4184">Ort: Stadtteilwerkstatt (ASZ)</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="flowPara10168">Termin: 26.07.2014 von 10 bis 17 Uhr</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="flowPara4186">Teilnahmegebühr: 45,– EUR</flowPara><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;writing-mode:lr-tb;text-anchor:end;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="flowPara4188">Infos: arduino.chaos-inkl.de</flowPara></flowRoot>    <g
+       id="g4289"
+       transform="translate(-12,0)">
+      <image
+         sodipodi:absref="/Users/thomas/Documents/CCC/_Chaos inKL./GitHub/design/plakate/arduino-workshop/6052455554_a4301347ef_b.jpg"
+         xlink:href="6052455554_a4301347ef_b.jpg"
+         y="-13.954668"
+         x="-2.1582806"
+         id="image4152"
+         height="560.79022"
+         width="840.77478"
+         clip-path="url(#clipPath4253)" />
+      <text
+         transform="matrix(0.84170121,-0.53994359,0.53994359,0.84170121,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4190"
+         y="658.31116"
+         x="245.50737"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+         xml:space="preserve"><tspan
+           y="658.31116"
+           x="245.50737"
+           id="tspan4192"
+           sodipodi:role="line">CC-BY snootlab</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4241"
+         d="m 465.75513,73.325884 -232.19862,128.999236 0,36.66294 -109.98882,61.1049 0,59.74701 59.74701,54.31547 146.65177,92.33629 47.52603,28.51562 58.38913,-8.14732 152.08331,-89.62052 145.29387,-109.98882 0,-62.46279 -14.93676,-39.37871 -169.73583,-100.48361 -28.51562,1.35788 -25.79985,-17.65253 0,-23.084066 z"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         sodipodi:nodetypes="cccccccccccccccccc" />
+    </g>
+    <g
+       id="g4245"
+       transform="translate(0,6)">
+      <path
+         style="fill:#ffffff;stroke:none"
+         d="m 72.589736,47.986932 -40.183406,19.257711 5.975257,76.209117 140.038073,-2.7259 165.71358,-18.40398 33.96433,-21.15429 -7.98446,-75.138027 -76.97829,18.13017 -57.87816,-12.237524 -103.97848,14.14167 z"
+         id="path8966"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccc" />
+      <path
+         transform="translate(0,2.5390623e-6)"
+         inkscape:connector-curvature="0"
+         id="path4243"
+         d="M 48.883921,58.389128 25.799847,77.399541 31.231394,152.08331 175.16738,145.29388 361.19786,112.7046 373.41884,81.473201 361.19786,20.3683 285.1562,42.094487 226.76708,32.58928 123.56769,51.599694 z"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <flowRoot
+         transform="matrix(0.99651745,-0.08338445,0.08338445,0.99651745,-6.7246966,16.459068)"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New"
+         id="flowRoot4158"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4160"><rect
+             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Courier New;-inkscape-font-specification:Courier New"
+             y="44.810261"
+             x="44.810261"
+             height="176.52527"
+             width="666.72235"
+             id="rect4162" /></flowRegion><flowPara
+           id="flowPara4166">Arduino</flowPara></flowRoot>    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.24864244;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.99456991, 4.99456991;stroke-dashoffset:0"
+       d="m 0.62432124,838.28777 742.84584876,0"
+       id="path4295"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Originale" />
+</svg>
