@@ -7,6 +7,14 @@ Die Datei enthält unter Anderem eine Ebene mit den Löchern, diese muss für ei
 
 Die Banner-Datei wurde mit dem OpenSource Layoutprogramm Scribus erstellt.
 
+## Flyer
+
+Der aktuelle Flyer ist in der Fachsprache der Druckerei ein 6-seitiges Faltblatt mit Wickelfalz. Das Format ist DIN-Lang im Hochformat, der Bund ist links.
+Daher der Dateiname »Faltblatt«. Die Datei wurde mit dem OpenSource Layoutprogramm Scribus erstellt.
+
+Die Datei Flyer_Chaos-inKL enthält die alte Version als beidseitig zu bedruckendes Einzelblatt.
+Sie wurde mit Adobe InDesign CS Version 5 erstellt.
+
 ## Logos
 
 Die im Logo verwendete Schriftart ist beigefügt. Sie darf für nicht-kommerziellen Gebrauch frei verwendet werden.
